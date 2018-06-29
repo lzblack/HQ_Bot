@@ -3,7 +3,7 @@ future
 selenium
 simplejson
 Pillow
-opencv-contrib-python
+# opencv-contrib-python
 pytesseract
 beautifulsoup4
 pyscreenshot
